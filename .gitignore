@@ -1,0 +1,39 @@
+# Visual Studio
+.vs/
+*.VC.db
+*.VC.opendb
+
+# Build folders
+Debug/
+Release/
+x64/
+x86/
+
+# CMake
+out/
+build/
+
+# User files
+*.user
+*.suo
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+# Executables
+*.exe
+*.obj
+*.ilk
+*.pdb
+*.idb
+
+# Visual Studio generated files
+ipch/
+*.tlog
+*.lastbuildstate
+
+# Cache
+*.cache
